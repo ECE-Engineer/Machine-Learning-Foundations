@@ -25,6 +25,7 @@ It is a 10 week long course, whereas every week I'd teach new material that I pu
 
 # Interested in Learning More?
 * [Create your own Convolutional Neural Network for Image Classification](https://medium.com/@kzeller_133/a-convolutional-neural-network-implementation-with-tensorflow-ad23b8cc0691)
+* [Create your first Artificial Neural Network with TensorFlow](https://github.com/TensorFlow-ML-Architectures/TensorFlow-Multilayer-Perceptron)
 
 ### My Website
 * [Kyle Zeller (v1)](http://cs.oswego.edu/~kzeller/)
