@@ -3,7 +3,7 @@ A series of lectures I've put together to make a machine learning crash course f
 It is a 10 week long course, whereas every week I'd teach new material that I put together for 1-1.5 hrs.
 
 ## Week 1
-* [pdf](https://github.com/ECE-Engineer/Machine-Learning-Foundations/blob/master/W1%20Machine%20Learning%20Lecture.pdf)
+* [pdf](https://github.com/ECE-Engineer/Machine-Learning-Foundations/raw/master/W1%20Machine%20Learning%20Lecture.pdf)
 
 ## Week 2
 
@@ -24,11 +24,11 @@ It is a 10 week long course, whereas every week I'd teach new material that I pu
 ## Week 10
 
 # Interested in Learning More?
-* [Create your own Convolutional Neural Network for Image Classification](https://github.com/ECE-Engineer/CNN-TensorFlow-Tutorial/blob/master/Tensoflow%20Workshop%20%26%20Talk.pdf)
+* [Create your own Convolutional Neural Network for Image Classification](https://medium.com/@kzeller_133/a-convolutional-neural-network-implementation-with-tensorflow-ad23b8cc0691)
 
 ### My Website
 * [Kyle Zeller (v1)](http://cs.oswego.edu/~kzeller/)
-* [Kyle Zeller (v2)](https://ece-engineer.github.io/)
+* [Kyle Zeller (v2-WIP)](https://ece-engineer.github.io/)
 
 ### My Contact Info
 * kzeller@oswego.edu
