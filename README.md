@@ -6,6 +6,7 @@ It is a 10 week long course, whereas every week I'd teach new material that I pu
 * [pdf](https://github.com/ECE-Engineer/Machine-Learning-Foundations/raw/master/W1%20Machine%20Learning%20Lecture.pdf)
 
 ## Week 2
+* [pdf](https://github.com/ECE-Engineer/Machine-Learning-Foundations/raw/master/W2%20Machine%20Learning%20Lecture.pdf)
 
 ## Week 3
 
