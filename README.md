@@ -27,6 +27,7 @@ It is a 9 week long course, whereas every week I'd teach new material that I put
 * [pdf](https://github.com/ECE-Engineer/Machine-Learning-Foundations/raw/master/W8%20Machine%20Learning%20Lecture.pdf)
 
 ## Week 9
+* [pdf](https://github.com/ECE-Engineer/Machine-Learning-Foundations/raw/master/W9%20Machine%20Learning%20Lecture.pdf)
 
 # Interested in Learning More?
 * [Create your own Convolutional Neural Network for Image Classification](https://medium.com/@kzeller_133/a-convolutional-neural-network-implementation-with-tensorflow-ad23b8cc0691)
